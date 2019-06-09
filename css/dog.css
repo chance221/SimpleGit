@@ -1,0 +1,24 @@
+*{box-sizing:border-box;}
+
+html{
+    background-color:black;
+    color:white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#images{
+    width: 98vw;
+    Height: 500px;
+    display: inline-flex;
+    background: darkblue;
+    justify-content: space-around;
+    flex-direction: row;
+}
+
+/* .normImg{
+    width:15vw;
+    height: 15vw;
+    border: 3px solid black
+    
+} */
+
